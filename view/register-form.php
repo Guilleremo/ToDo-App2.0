@@ -5,7 +5,7 @@
 
 <h1>Register</h1>
 
-<form method="post" action="<?php echo $path . "controller/create-user.php"; ?>">
+<form method="post" action="<?php echo $path . "todo.php"; ?>">
 	<div>
 		<label for="username">Username: </label>
 		<input type="text" name="username" />
